@@ -69,6 +69,11 @@ p {
 .project-description {
   padding: 120px 60px;
 }
+.berries-picture {
+  padding: 10px;
+  border: solid 40px;
+  color: var(--secondary-color);
+}
 @media (max-width: 900px) {
   .project-description {
     padding: 0;
