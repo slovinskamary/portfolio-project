@@ -50,6 +50,7 @@ p {
   font-size: 24px;
   color: #272142;
 }
+
 .about-section {
   padding: 160px 20px;
 }
@@ -84,7 +85,7 @@ p {
   padding: 120px 60px;
 }
 .berries-picture {
-  padding: 10px;
+  padding-top: 70px;
   border: solid 40px;
   color: var(--secondary-color);
 }
