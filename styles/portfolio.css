@@ -96,7 +96,7 @@ p {
 }
 .berries-picture {
   padding: 10px;
-  margin-bottom: 300px;
+
   box-shadow: inset 0px 0px 10px var(--branding-color);
 }
 .berries-picture img {
