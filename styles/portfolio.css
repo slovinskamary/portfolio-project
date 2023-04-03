@@ -127,7 +127,7 @@ nav li.active a {
 }
 
 .logo {
-  max-width: 150px;
+  max-height: 40px;
 }
 
 @media (max-width: 900px) {
@@ -151,5 +151,8 @@ nav li.active a {
   }
   .project-description {
     padding-top: 20px;
+  }
+  nav a {
+    font-size: 12px;
   }
 }
