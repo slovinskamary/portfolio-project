@@ -26,6 +26,9 @@ h1 {
 h2 {
   font-size: 64px;
 }
+h4 {
+  font-size: 48px;
+}
 p {
   font-weight: normal;
   font-size: 16px;
@@ -96,8 +99,7 @@ p {
 }
 .berries-picture {
   padding: 10px;
-
-  box-shadow: inset 0px 0px 10px var(--branding-color);
+  box-shadow: inset 15px 15px 20px 20px var(--secondary-color);
 }
 .berries-picture img {
   padding: 20px;
@@ -131,6 +133,14 @@ nav li.active a {
 }
 footer {
   margin: 60px 0;
+}
+footer .contact-box {
+  background: var(--secondary-color);
+  padding: 30px 120px;
+  border-radius: 10px;
+}
+footer .contact-box p {
+  margin: 0;
 }
 footer .email-link {
   text-decoration: none;
